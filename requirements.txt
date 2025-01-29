@@ -1,0 +1,5 @@
+streamlit==1.41.1
+langchain_groq==0.2.3
+langchain==0.3.16
+SpeechRecognition==3.14.1
+PyAudio==0.2.14
