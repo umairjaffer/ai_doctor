@@ -18,8 +18,8 @@ This is an AI-powered doctor chatbot built using **Streamlit** and **LangChain**
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/umairjaffer/ai-doctor.git
-   cd ai-doctor
+   git clone https://github.com/umairjaffer/ai_doctor.git
+   cd ai_doctor
    ```
 
 2. **Install the required dependencies**:
