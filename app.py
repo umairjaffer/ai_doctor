@@ -16,7 +16,7 @@ if 'past' not in st.session_state:
     st.session_state['past'] = []  # Store user inputs
 
 # Initialize the Groq AI model
-api_key = "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"  # Replace with your Groq API key
+api_key = "Enter your Groq API key here"  # Replace with your Groq API key
 chat = ChatGroq(api_key=api_key, model="llama-3.3-70b-versatile", temperature=0.5, max_tokens=100)
 
 def recognize_speech():
